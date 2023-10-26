@@ -35,6 +35,7 @@ The comparisons between SSLCL and existing SCL approaches on IEMOCAP and MELD ar
 
 
 ## Citation
+If you find our work helpful to your research, please cite our paper as follows.
 ```bibtex
 @misc{shi2023sslcl,
       title={SSLCL: An Efficient Model-Agnostic Supervised Contrastive Learning Framework for Emotion Recognition in Conversations}, 
