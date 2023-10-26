@@ -4,7 +4,7 @@
 ## Introduction
 Supervised Sample-Label Contrastive Learning with Soft-HGR Maximal Correlation (SSLCL) is an efficient and model-agnostic supervised contrastive learning framework for the problem of Emotion Recognition in Conversations (ERC), which eliminates the need for a large batch size and can be seamlessly integrated with existing ERC models without introducing any model-specific assumptions. Extensive experiments on two ERC benchmark datasets, IEMOCAP and MELD, demonstrate the compatibility and superiority of our proposed SSLCL framework compared to existing state-of-the-art supervised contrastive learning (SCL) methods. 
 
-The full paper is available at .
+The full paper is available at [https://arxiv.org/abs/2310.16676](https://arxiv.org/abs/2310.16676).
 
 
 ## Model Architecture
@@ -35,8 +35,15 @@ The comparisons between SSLCL and existing SCL approaches on IEMOCAP and MELD ar
 
 
 ## Citation
-```
-
+```bibtex
+@misc{shi2023sslcl,
+      title={SSLCL: An Efficient Model-Agnostic Supervised Contrastive Learning Framework for Emotion Recognition in Conversations}, 
+      author={Tao Shi and Xiao Liang and Yaoyuan Liang and Xinyi Tong and Shao-Lun Huang},
+      year={2023},
+      eprint={2310.16676},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
 
