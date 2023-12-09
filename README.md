@@ -1,4 +1,4 @@
-# SSLCL: An Efficient Model-Agnostic Supervised Contrastive Learning Framework for Emotion Recognition in Conversations (Under Review by AAAI 2024)
+# SSLCL: An Efficient Model-Agnostic Supervised Contrastive Learning Framework for Emotion Recognition in Conversations
 
 
 ## Introduction
