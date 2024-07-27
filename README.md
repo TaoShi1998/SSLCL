@@ -10,17 +10,4 @@ The overall framework of SSLCL is illustrated as follows, which is made up of th
 ![Figure 1: Illustration of the overall framework of SSLCL.](https://github.com/TaoShi1998/SSLCL/assets/37060800/ca59e2f3-46e3-4d4c-85cd-6a79f34152f7)
 
 
-## Citation
-If you find our work helpful to your research, please cite our paper as follows.
-```bibtex
-@misc{shi2023sslcl,
-      title={SSLCL: An Efficient Model-Agnostic Supervised Contrastive Learning Framework for Emotion Recognition in Conversations}, 
-      author={Tao Shi and Xiao Liang and Yaoyuan Liang and Xinyi Tong and Shao-Lun Huang},
-      year={2023},
-      eprint={2310.16676},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
-
 
